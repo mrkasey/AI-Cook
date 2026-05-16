@@ -1,0 +1,6 @@
+streamlit
+openai
+pydantic
+python-dotenv
+youtube-search
+fpdf2
